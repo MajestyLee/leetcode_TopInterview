@@ -57,3 +57,4 @@ class Solution:
 
 a = Solution()
 print(a.searchRange([2,2],2))
+
